@@ -1,0 +1,113 @@
+body {
+	width: 1170px;
+	margin: 10px auto;
+	background: white;
+
+}
+.clear {
+	clear:both;
+}
+
+.row1 {		
+	float:left;	
+	width:350px;
+	height:2000px;
+	background: white;
+	margin-left: 30px;
+	
+}
+.row1 .img1 {
+	width:350px;
+	height: 270px;
+	margin-top: 20px;
+	background-image: url("../img/cocktail.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 250px;
+}
+.row1 .img2 {
+	width:350px;
+	height: 400px;	
+	background-image: url("../img/cocktail12.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 380px;
+}
+.row1 .img3 {
+	width:350px;
+	height: 220px;	
+	background-image: url("../img/1456450483903032.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 200px;
+}
+.row1 .img4 {
+	width:350px;
+	height: 270px;	
+	background-image: url("../img/34ee5cc2fe52065e71e099b79e2d614b.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 250px;
+}
+.row1 .img5 {
+	width:350px;
+	height: 270px;	
+	background-image: url("../img/3189583-cocktails-wallpapers.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 250px;
+}
+.row2 {
+	float: left;
+	margin-left: 30px ;
+	margin-top: 20px;
+	width: 350px;
+	height: 2000px;
+	background: white; 
+}
+.row3 {
+	float: left;
+	width: 400px;
+	height: 2000px;
+	margin-top: 20px;
+	background-color: white;
+}
+.row3 .img6{
+	width:350px;
+	height: 250px;	
+	margin-left: 30px;
+	background-image: url("../img/Happy-group-of-friends-family.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 250px;
+}
+.row3 .img7{
+	width:350px;
+	height: 350px;
+	margin-top: 20px;
+	margin-left: 30px;
+	background-image: url("../img/oldfashioned.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 350px;
+}
+.row3 .img8{
+	width:350px;
+	height: 250px;	
+	margin-left: 30px;
+	margin-top: 20px;
+	background-image: url("../img/oy0v8Y.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 250px;
+}
+.row3 .img9{
+	width:350px;
+	height: 250px;	
+	margin-left: 30px;
+	margin-top: 20px;
+	background-image: url("../img/the-new-rogue-it-a-growing-invisible-threat-to-your-it-operations-100639744-primary.idge_.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 250px;
+}
+.row3 .img10{
+	width:350px;
+	height: 250px;	
+	margin-left: 30px;
+	margin-top: 20px;
+	background-image: url("../img/time-moving-backwards.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 350px 250px;
+}

@@ -1,0 +1,51 @@
+
+.main {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.header {
+    background: red;
+}
+
+.header .top {
+    height: 150px;
+    background: #cccccc;
+}
+
+.header .middle .logo {
+    float: left;
+    height: 150px;
+    width: 292.5px;
+    background: black;
+}
+
+.header .middle .search {
+    float: left;
+    height: 150px;
+    width: 292.5px;
+    background: yellow;
+}
+
+.header .middle .div3 {
+    float: left;
+    height: 150px;
+    width: 292.5px;
+    background: blue;
+}
+
+.header .middle .div4 {
+    float: left;
+    height: 150px;
+    width: 292.5px;
+    background: black;
+}
+
+.clear {
+    clear: both;
+}
+
+.header .main_menu {
+    height: 350px;
+    background: olivedrab;
+}
